@@ -1,4 +1,4 @@
 Generate a Web App to compare NBA player stats in a Intercorrelation Heatmap
-![app3 1](https://user-images.githubusercontent.com/16994191/127466860-7cd790e2-a388-4ee3-a05b-b60c9493abb6.PNG)
+![app3](https://user-images.githubusercontent.com/16994191/127467042-1765cf82-960d-4b88-b15a-58c99882b2be.PNG)
 
 
